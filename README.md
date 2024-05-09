@@ -2,6 +2,9 @@
 
 - Create React App with Vite
 - Configured TailwindCSS
+- Header
+- Login Form
+- Sign Up Form
 
 
 # Features
